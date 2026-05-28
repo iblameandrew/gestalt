@@ -1,3 +1,6 @@
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/02114820-4f18-4802-aee4-c20fb7726230" />
+
+
 # Gestalt
 
 The living ecosystem of your shared psyche.
