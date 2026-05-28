@@ -27,3 +27,13 @@ Examples: A period of intense collaborative work might manifest as a "Construct-
 - **Interactive Ecology:** A fluid 3D interface where you can prune, nurture, or observe the manifestations of your relationship's current state.
 - **Collaborative Journaling:** A shared space that acts as the primary data feed for the system, allowing you to witness how your communication directly alters your digital world.
 - **Integration Modules:** AI-driven prompts designed to help you "tame" or "integrate" challenging entities, transforming static problems into opportunities for growth.
+
+## 🧱 Tech Stack
+
+| Layer | Recommended Technology |
+|---|---|
+| Frontend Framework | Next.js (React) |
+| 3D Rendering | React Three Fiber (Three.js) |
+| Styling & Motion | Tailwind CSS / Framer Motion |
+| State Management | Zustand (highly performant for 3D state) |
+| Asset Format | glTF 2.0 (optimized) |
